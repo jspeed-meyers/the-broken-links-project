@@ -27,20 +27,13 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+  url: https://www.usenix.org/publications/login/winter2020/geer
+url_pdf: https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf)'
   focal_point: ""
   preview_only: false
 
