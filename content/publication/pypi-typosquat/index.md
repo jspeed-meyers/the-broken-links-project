@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IQT Blog"
+publication: "IQT Blog"
 publication_short: ""
 
 abstract: John Speed Meyers and Bentz Tozer analyze typosquatting attack strategies on the Python Package Index.
