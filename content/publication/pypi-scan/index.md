@@ -1,9 +1,9 @@
 ---
-title: "pypi-scan: A Tool for Scanning the Python Package Index for Typosquatters"
+title: "pypi-scan - A Tool for Scanning the Python Package Index for Typosquatters"
 authors:
 - John Speed Meyers
 - Bentz Tozer
-date: "2020-10-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,14 +25,14 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: Custom Link
-  url: https://www.iqt.org/pypi-scan/
+# links:
+# - name: "blog"
+#   url: "https://www.iqt.org/bewear-python-typosquatting-is-about-more-than-typos/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -41,8 +41,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
