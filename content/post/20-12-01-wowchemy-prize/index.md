@@ -1,5 +1,5 @@
 ---
-title: pypi-scan: A Tool for Scanning the Python Package Index for Typosquatters
+title: pypi-scan - A Tool for Scanning the Python Package Index for Typosquatters
 date: 2020-12-01
 ---
 
