@@ -1,5 +1,5 @@
 ---
-title: New Software Supply Chain Compromise Dataset Published in USENIX ;login
+title: New Software Supply Chain Compromise Dataset Published in USENIX ;login:
 date: 2020-12-02
 ---
 
