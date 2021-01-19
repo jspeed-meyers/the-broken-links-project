@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Broken Links Project is an IQT R&D initiative on software supply chain security.
+An IQT R&D initiative on software supply chain security.
